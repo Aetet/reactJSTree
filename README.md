@@ -5,9 +5,9 @@ Demo for benchmark with immutable-di and React.js
 ## Install
 `npm i`
 
-####For development:
+####Development:
 `node webpack.config.js` 
 
-####For production
+####Production
 
 `node webpack.config.production.js` 
