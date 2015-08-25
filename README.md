@@ -1,6 +1,6 @@
 Tree on React
 ================
-Demo for benchmark with immutable-di and React.js
+Demo for benchmark with [immutable-di](https://github.com/zerkalica/immutable-di) and [React.js](http://facebook.github.io/react/)
 
 ## Install
 `npm i`
